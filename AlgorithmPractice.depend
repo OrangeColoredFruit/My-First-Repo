@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1733442241 source:d:\c projects\algorithm practice\algorithmpractice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedLists/LinkedList.h"
+	"SortingAlgorithms/BubbleSort.h"
+	"Unsorted.h"
+
+1731754530 d:\c projects\algorithm practice\algorithmpractice\nospaces\nospacefolder.h
+
+1731754437 d:\c projects\algorithm practice\algorithmpractice\new folder\in another folder.h
+
+1733441921 d:\c projects\algorithm practice\algorithmpractice\linkedlists\linkedlist.h
+
+1733438440 d:\c projects\algorithm practice\algorithmpractice\sortingalgorithms\bubblesort.h
+	<stdbool.h>
+
+1733442514 d:\c projects\algorithm practice\algorithmpractice\unsorted.h
+	"stddef.h"
+
